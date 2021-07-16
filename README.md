@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; 새로운 기술을 학습하고 있습니다: 데이터 분석, 머신러닝 및 인공지능 모델, 추천 알고리즘
 - 🎓 &nbsp; Studied Business Administration at Universidad Complutense Madrid (Spain)
 - 🌱 &nbsp; Learning more about Machine Learning, Data Analytics and Artificial Intelligence.
 
@@ -37,7 +37,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me 활발하게 구직 중입니다! 연락 기다립니다</h3>
 
 <p align="center">
 <a href="mailto:solleedata@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-solleedata@gmail.com-blue?style=flat-square&logo=gmail"></a>
