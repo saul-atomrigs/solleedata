@@ -1,8 +1,12 @@
 <h2> Hey there! I'm SOL.</h2>
 
+<h3> 👨🏻‍💻 &nbsp;Portfolio </h3>
+- 딥러닝 NLP 기반 역직구 셀러/이커머스 업체들을 위한 구글 키워드 마케팅 비용 절감 솔루션 (2021)
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; 새로운 기술을 학습하고 있습니다: 데이터 분석, 머신러닝 및 인공지능 모델, 추천 알고리즘
+- 수출 이커머스 운영 중이며 SEO, Google Ads 등 마테크(마케팅+테크) 경력자입니다
 - 🎓 &nbsp; Studied Business Administration at Universidad Complutense Madrid (Spain)
 - 🌱 &nbsp; Learning more about Machine Learning, Data Analytics and Artificial Intelligence.
 
