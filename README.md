@@ -38,8 +38,6 @@
 
 <br/>
 
-<h3> &nbsp;활발하게 구직 중입니다! 연락 기다립니다</h3>
-
 <p align="center">
 <a href="mailto:solleedata@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-solleedata@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
