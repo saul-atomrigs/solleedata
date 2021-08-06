@@ -7,8 +7,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- &nbsp; 새로운 기술을 학습하고 있습니다: 데이터 분석, 머신러닝 및 인공지능 모델, 추천 알고리즘
-- &nbsp; 수출 이커머스 운영 중이며 SEO, Google Ads 등 마테크(마케팅+테크) 4년 경력자입니다
+- &nbsp; 데이터 분석, 머신러닝 및 인공지능 모델, 추천 알고리즘
+- &nbsp; 수출 이커머스 플랫폼을 구축 및 운영 중이며 SEO, Google Ads 등 마테크(마케팅+테크) 4년 경력자입니다
 - &nbsp; Studied Business Administration at Universidad Complutense Madrid (Spain)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
