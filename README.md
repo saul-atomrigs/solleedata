@@ -15,7 +15,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ! SQL
+  ![SQL]
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -28,7 +28,7 @@
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  [Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook&logoColor=007ACC)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook&logoColor=007ACC)
 
 <br/>
 
