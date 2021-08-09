@@ -15,7 +15,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![SQL]
+  ![SQL](https://img.shields.io/badge/-Sql-333333?style=flat&logo=sql)
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
