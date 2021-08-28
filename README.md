@@ -28,8 +28,8 @@
 <br/>
 
 <a href="https://github.com/solleedata">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=solleedata&theme=github_dark&show_icons=true" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solleedata&theme=github_dark&layout=compact" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=solleedata&theme=nord&show_icons=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solleedata&theme=nord&layout=compact" />
 </a>
 
 <br/>
