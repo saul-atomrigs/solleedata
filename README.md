@@ -1,11 +1,11 @@
 <h2> 이 솔 Data & AI </h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<!-- <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 <div>
 - &nbsp; 데이터 수집, 처리, 분석
 - &nbsp; 딥러닝 및 인공지능 모델
-
+ -->
 
 <a href="https://github.com/solleedata">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=solleedata&theme=dark&show_icons=true" />
