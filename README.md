@@ -22,10 +22,10 @@
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook&logoColor=007ACC) -->
+  ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook&logoColor=007ACC) 
 
 <br/>
-
+-->
 <a href="https://github.com/solleedata">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=solleedata&theme=dark&show_icons=true" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solleedata&theme=dark&layout=compact" />
