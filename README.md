@@ -6,16 +6,16 @@
 - &nbsp; 데이터 수집, 처리, 분석
 - &nbsp; 딥러닝 및 인공지능 모델
 
-<div>
+
 <a href="https://github.com/solleedata">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=solleedata&theme=dark&show_icons=true" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solleedata&theme=dark&layout=compact" />
 </a>
- </div>
+
  </div>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
 <!-- 
+<h3> 🛠 &nbsp;Tech Stack</h3>
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
