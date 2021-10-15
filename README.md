@@ -1,13 +1,12 @@
-<h2> Hey there! I'm SOL</h2>
+<h2> 이 솔 Data & AI </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- &nbsp; 데이터 분석, 머신러닝 및 인공지능 모델, 추천 알고리즘
-- &nbsp; 수출 이커머스 플랫폼을 구축 및 운영 중이며 SEO, Google Ads 등 마테크(마케팅+테크) 4년 경력자입니다
-- &nbsp; Studied Business Administration at Universidad Complutense Madrid (Spain)
+- &nbsp; 데이터 수집, 처리, 분석
+- &nbsp; 딥러닝 및 인공지능 모델
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
+<!-- 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
@@ -23,7 +22,7 @@
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook&logoColor=007ACC)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook&logoColor=007ACC) -->
 
 <br/>
 
