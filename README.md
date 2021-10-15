@@ -3,10 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 <div>
-<div>
 - &nbsp; 데이터 수집, 처리, 분석
 - &nbsp; 딥러닝 및 인공지능 모델
-</div>
 
 <div>
 <a href="https://github.com/solleedata">
