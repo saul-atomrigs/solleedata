@@ -1,4 +1,4 @@
-<h2> 이 솔 (Sol Lee)</h2>
+<!-- <h2> 이 솔 (Sol Lee)</h2>
 
 <!-- <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -7,12 +7,12 @@
 - &nbsp; 딥러닝 및 인공지능 모델
  -->
 
-<a href="https://github.com/solleedata">
+<!-- <a href="https://github.com/solleedata">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=solleedata&theme=dark&show_icons=true" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solleedata&theme=dark&layout=compact" />
 </a>
 
- </div>
+ </div> -->
 
 <!-- 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -41,3 +41,4 @@
 <p align="center">
 <a href="mailto:solleedata@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-solleedata@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+ -->
