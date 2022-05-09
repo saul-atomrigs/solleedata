@@ -1,1 +1,1 @@
-React Native App Developer
+Blockchain App Developer (React Native) @ Atomrigs Lab 
